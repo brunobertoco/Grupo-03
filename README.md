@@ -1,4 +1,4 @@
-Gestão de Eventos Esportivos
+**Gestão de Eventos Esportivos**
 
 **Sobre o Projeto**
 O projeto Gestão de Eventos Esportivos é uma plataforma web completa desenvolvida para centralizar a divulgação e a gestão de corridas de rua, competições e passeios de bike. O sistema atua como uma ponte entre Organizadores (que publicam e gerenciam as competições) e Atletas/Participantes (que buscam provas e gerenciam suas inscrições).
